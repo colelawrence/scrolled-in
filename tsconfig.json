@@ -1,0 +1,10 @@
+{
+    "files": [
+        "index.ts"
+    ],
+    "compilerOptions": {
+        "target": "es3",
+        "declaration": true,
+        "outFile": "index.js"
+    }
+}
